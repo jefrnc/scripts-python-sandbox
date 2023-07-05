@@ -2,7 +2,7 @@
     "name": "container-quickstart",
     "main": "index.js",
     "dependencies": {
-        "@pulumi/pulumi": "^3.51.0",
+        "@pulumi/pulumi": "^3.74.0",
         "@pulumi/aws": "^5.26.0",
         "@pulumi/awsx": "latest"
     }
